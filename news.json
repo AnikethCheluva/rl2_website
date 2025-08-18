@@ -1,6 +1,18 @@
 {
     "news": [
         {
+            "date": "Aug 2025",
+            "content": "Three papers (two oral presentations) accepted at CoRL 2025."
+        },
+        {
+            "date": "Aug 2025",
+            "content": "Received support from NSF for research on active perception and planning. "
+        },
+        {
+            "date": "July 2025",
+            "content": "Received the NSF CAREER Award. "
+        },
+        {
             "date": "May 2025",
             "content": "Danfei gave two talks at ICRA Workshops on Neural-Symbolic Data Engine."
         },
